@@ -3,7 +3,7 @@
 </div>
 
 
-Hi 👋 My name is Sebastian Toro
+Hi there! 👋 My name is Sebastian Toro
 ===============================
 
 Web Developer
