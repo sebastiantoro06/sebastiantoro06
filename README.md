@@ -3,11 +3,13 @@
 </div>
 
 
-Hi there! 👋 My name is Sebastian Toro
+Hey there! 👋 My name is Sebastian Toro
 ===============================
 
 Web Developer
 -------------
+
+ Hey there! I'm a self-taught front-end developer with a passion for creating awesome user experiences. I love to work with React, GraphQL, TypeScript, and Tailwind CSS to build responsive and visually appealing web applications. With 1 year of experience under my belt, I'm eager to continue growing my skills and collaborating with fun and innovative teams. Let's create something amazing together!
 
 * 🌍  I'm based in Melbourne, Australia
 * ✉️  You can contact me at [sebastiantorourrego@gmail.com](mailto:sebastiantorourrego@gmail.com)
