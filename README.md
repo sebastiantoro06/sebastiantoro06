@@ -6,7 +6,7 @@
 
 ## Web Developer
 
-Hey there! I'm a self-taught front-end developer with a passion for creating awesome user experiences. I love to work with React, GraphQL, TypeScript, and Tailwind CSS to build responsive and visually appealing web applications. With 1 year of experience under my belt, I'm eager to continue growing my skills and collaborating with fun and innovative teams. Let's create something amazing together!
+Hey there! I'm a self-taught front-end developer with a passion for creating awesome user experiences. I love to work with React, GraphQL, TypeScript, and Tailwind CSS to build responsive and visually appealing web applications. With 1 year of experience under my belt, I'm eager to continue growing my skills and collaborating with fun and innovative teams.
 
 - 🌍  I'm based in Melbourne, Australia
 - 📫 How to reach me **sebastiantorourrego@gmail.com**
