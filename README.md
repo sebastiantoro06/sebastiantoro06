@@ -6,7 +6,6 @@ Hello! I'm a self-taught front-end developer passionate about creating amazing u
 
 - 🌍  I'm based in Melbourne, Australia
 - 📫 How to reach me **sebastiantorourrego@gmail.com**
-- 🚀 I'm currently working on [8base](http://8base.com)
 
 ### Skills
 
