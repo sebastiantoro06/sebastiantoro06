@@ -1,20 +1,75 @@
-# Hey there! 👋 My name is Sebastian Toro
+# Sebastian Toro
 
-## Web Developer
+<div align="center">
+  
+  **Full Stack Developer** • Melbourne, Australia 🇦🇺
+  
+  Building elegant web experiences with modern technologies
+  
+  [![Email](https://img.shields.io/badge/sebastiantorourrego@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sebastiantorourrego@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-toro-urrego/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/sebastiantoro06)
 
-Hello! I'm a self-taught front-end developer passionate about creating amazing user experiences. I specialize in React, GraphQL, TypeScript, and Tailwind CSS for building responsive web apps. With 1 year of experience, I'm eager to grow my skills and collaborate with innovative teams.
+</div>
 
-- 🌍  I'm based in Melbourne, Australia
-- 📫 How to reach me **sebastiantorourrego@gmail.com**
+---
 
-### Skills
+## 👨‍💻 About Me
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+Self-taught front-end developer with a passion for creating intuitive and performant user interfaces. I specialize in building responsive web applications using React and modern JavaScript frameworks. With 1 year of hands-on experience, I'm continuously learning and eager to collaborate on innovative projects.
 
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+```javascript
+const sebastian = {
+  location: "Melbourne, Australia",
+  role: "Front-End Developer",
+  passion: ["Clean Code", "UX Design", "Problem Solving"],
+  currentlyLearning: ["Next.js", "Web Performance", "Design Systems"]
+};
+```
 
-### Socials
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://www.github.com/sebastiantoro06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sebastian-toro-urrego/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiantoro06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiantoro06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+<div align="center">
+  
+  **[Email](mailto:sebastiantorourrego@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/sebastian-toro-urrego/)** • **[GitHub](https://www.github.com/sebastiantoro06)**
+  
+
+</div>
