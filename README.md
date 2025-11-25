@@ -61,7 +61,7 @@ const sebastian = {
 
 ## 🚀 Featured Projects
 
-Coming soon...
+Coming soon..
 
 ## 📫 Let's Connect
 
