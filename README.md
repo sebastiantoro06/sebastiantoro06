@@ -51,10 +51,10 @@ const sebastian = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiantoro06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiantoro06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastiantoro06&theme=tokyonight)](https://github.com/sebastiantoro06)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=sebastiantoro06&layout=compact&theme=tokyonight)](https://github.com/sebastiantoro06)
 
 </div>
 
