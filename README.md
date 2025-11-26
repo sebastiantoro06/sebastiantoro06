@@ -54,7 +54,7 @@ const sebastian = {
 
 [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastiantoro06&theme=tokyonight)](https://github.com/sebastiantoro06)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=sebastiantoro06&layout=compact&theme=tokyonight)](https://github.com/sebastiantoro06)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebastiantoro06&theme=tokyonight)](https://github.com/sebastiantoro06)
 
 </div>
 
