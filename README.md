@@ -9,7 +9,6 @@
   [![Email](https://img.shields.io/badge/sebastiantorourrego@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sebastiantorourrego@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-toro-urrego/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/sebastiantoro06)
-
 </div>
 
 ---
@@ -53,9 +52,9 @@ const sebastian = {
 
 <div align="center">
   
-  ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiantoro06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiantoro06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiantoro06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiantoro06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -69,8 +68,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   
-  **[Email](mailto:sebastiantorourrego@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/sebastian-toro-urrego/)** • **[GitHub](https://www.github.com/sebastiantoro06)**
-  
-  ---
+**[Email](mailto:sebastiantorourrego@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/sebastian-toro-urrego/)** • **[GitHub](https://www.github.com/sebastiantoro06)**
+
+---
   
 </div>
