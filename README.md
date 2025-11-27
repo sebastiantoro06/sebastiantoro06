@@ -52,15 +52,20 @@ const sebastian = {
 
 <div align="center">
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastiantoro06&theme=tokyonight)](https://github.com/sebastiantoro06)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastiantoro06&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sebastiantoro06)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebastiantoro06&theme=tokyonight)](https://github.com/sebastiantoro06)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiantoro06&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sebastiantoro06)
 
 </div>
 
 ## 🚀 Featured Projects
 
-Coming soon..
+### [Portfolio v1](https://github.com/sebastiantoro06/Portfolio-v1)
+My personal portfolio showcasing my projects, skills, and experience as a Front-End Developer. Built with modern web technologies to demonstrate my capabilities in creating responsive and visually appealing web experiences.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, React
+
+---
 
 ## 📫 Let's Connect
 
@@ -71,5 +76,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 **[Email](mailto:sebastiantorourrego@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/sebastian-toro-urrego/)** • **[GitHub](https://www.github.com/sebastiantoro06)**
 
 ---
-  
+
 </div>
